@@ -10,7 +10,7 @@ class Button extends Component {
   }
   static defaultProps = {
     color: 'red',
-    text: 'Comfirm'
+    text: 'Confirm'
   };
   render() {
     const {
